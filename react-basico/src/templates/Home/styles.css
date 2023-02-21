@@ -1,0 +1,19 @@
+.container {
+  width: min(90%, 75rem);
+  margin: 0 auto;
+  padding-block: 4rem;
+}
+
+.button-container {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.search-container {
+  margin-bottom: 2rem;
+}
+
+.search-container p {
+  margin-top: 1rem;
+}
